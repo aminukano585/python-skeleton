@@ -3,3 +3,6 @@ venv/
 
 # ignore editor configurations
 .vscode
+
+# ignore pycaches
+__pycache__/
